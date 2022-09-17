@@ -1,2 +1,2 @@
 # CRUD
-## cógigo encontra-se na master!
+## código encontra-se na master!
